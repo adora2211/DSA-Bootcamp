@@ -20,9 +20,7 @@ void pypart(int n)
 		// Ending line after each row
 		cout << endl;
 	}
-}
 
-// Driver Function
 int main()
 {
 	int n = 5;
